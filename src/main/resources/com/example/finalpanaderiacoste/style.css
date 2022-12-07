@@ -1,0 +1,9 @@
+.main-content{
+    -fx-background-image: url("img/background.png");
+    -fx-background-size: cover;
+
+}
+
+.scroll-pane > .viewport{
+    -fx-background-color: #1D1C1B;
+}

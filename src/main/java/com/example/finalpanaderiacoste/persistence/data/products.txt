@@ -1,0 +1,5 @@
+Pan@19@500.0@02@https://imag.bonviveur.com/presentacion-principal-del-bocadillo-de-jamon-serrano-y-queso.jpg
+Buñuelo@29@500.0@03@https://colmaiz.co/wp-content/uploads/2019/03/Producto-Preparacion-Bunuelo-1024x1024-1.png
+Galletas@24@1000.0@05@https://t1.rg.ltmcdn.com/es/posts/6/2/9/galletas_con_chispas_de_chocolate_caseras_35926_orig.jpg
+Empanada@50@2000.0@06@https://assets.unileversolutions.com/recipes-v2/210994.jpg
+Pan de nutella@30@2500.0@007@https://img-global.cpcdn.com/recipes/b225b58517788b26/400x400cq70/photo.jpg
